@@ -1,2 +1,7 @@
 # OOP-Ejercicio1
-ejercicio 1 Hola Progr2!
+class Hola:
+
+    def __init__(self):
+        print("Hola Progr2!°")
+
+objeto = Hola()
